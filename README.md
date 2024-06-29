@@ -5,5 +5,5 @@
 - I have created an stacked area chart based on assignment marks, quiz marks and attendance and in blog page I have added some collapsible section for question answering section.   
  
  
- ### Live site Link: 
+ ### Live site Link: https://recruit-bangla.netlify.app/
  
